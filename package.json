@@ -1,0 +1,27 @@
+{
+  "name": "resource_mud",
+  "version": "0.0.1",
+  "description": "A resource management mud attempt. Why? Who knows lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadajett/resourceMUD.git"
+  },
+  "keywords": [
+    "resource",
+    "management",
+    "mud"
+  ],
+  "author": "Jeremy Stover (Kadajett)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadajett/resourceMUD/issues"
+  },
+  "homepage": "https://github.com/Kadajett/resourceMUD#readme",
+  "dependencies": {
+    "chance": "^0.8.0"
+  }
+}
